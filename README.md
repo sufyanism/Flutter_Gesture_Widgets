@@ -23,7 +23,7 @@ Settings are  : Open Control Panel > System and Security > System > Advanced sys
 You can get an idea how to use Gesture Widgets in your project.
 
 # Screencast
-https://github.com/user-attachments/assets/6ade6710-ff66-4f45-aad9-290383ba4a11
+https://github.com/user-attachments/assets/6338b220-93dd-4ed2-88f5-c58f402d388f
 
 # Screenshot
 ![Gesture widgets](https://github.com/user-attachments/assets/776f1eaf-dad0-4a28-8f2b-e967a63cc57e)
