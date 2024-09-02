@@ -26,7 +26,7 @@ You can get an idea how to use Gesture Widgets in your project.
 https://github.com/user-attachments/assets/6ade6710-ff66-4f45-aad9-290383ba4a11
 
 # Screenshot
-![Gesture widgets](https://github.com/user-attachments/assets/f07f83d1-2ac4-4f9f-b6e5-9818a08d2047)
+![Gesture widgets](https://github.com/user-attachments/assets/776f1eaf-dad0-4a28-8f2b-e967a63cc57e)
 
 
 
