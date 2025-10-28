@@ -1,5 +1,5 @@
 # Flutter Gesture Widgets 
-Flutter Gesture Widgets repo offers a collection of customizable gesture detection and handling widgets for Flutter applications. 
+Flutter Gesture Widgets offers a collection of customizable gesture detection and handling widgets for Flutter applications. It simplifies the implementation of tap, swipe, drag, and other touch gestures, enabling smooth and responsive user interactions.
 
 </br>
 
